@@ -15,6 +15,7 @@ public class GifTest {
      */
     public static void main(String[] args) {
         System.out.println("The First Time Use Gif");
+        System.out.println("The Next Time Changed");
     }
     
 }
